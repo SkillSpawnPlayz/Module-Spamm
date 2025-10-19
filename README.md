@@ -1,4 +1,4 @@
-# Module-Spamm
+# Python Module: Spamm
 A python module that contains 3 functions
 
 The cool thing you can do is use a function called Up_d() , this function upgrades the module and make it spam using the keyboard instead.
